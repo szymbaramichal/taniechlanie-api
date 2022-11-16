@@ -1,6 +1,5 @@
 # TanieChlanie 🍷 (TC)
-
-## TC is free application available in the form of a web and mobile application available to everyone. It is an application addressed to lovers of alcoholic beverages who want to check what is unknown alcohol, calculate how much money is needed to get drunk or check what drinks can be made from a given alcohol. The application provides two scenarios:
+TC is free application available in the form of a web and mobile application available to everyone. It is an application addressed to lovers of alcoholic beverages who want to check what is unknown alcohol, calculate how much money is needed to get drunk or check what drinks can be made from a given alcohol. The application provides two scenarios:
 
 ### A user without an account can use the following tabs:
 - Alcohols
