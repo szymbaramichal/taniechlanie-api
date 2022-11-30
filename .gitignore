@@ -1,0 +1,14 @@
+src/obj
+src/bin
+src/.vs
+obj
+bin
+.vs
+src/TanieChlanie.API/bin
+src/TanieChlanie.API/obj
+src/TanieChlanie.Application/bin
+src/TanieChlanie.Application/obj
+src/TanieChlanie.Domain/bin
+src/TanieChlanie.Domain/obj
+src/TanieChlanie.Infrastructure/bin
+src/TanieChlanie.Infrastructure/obj
